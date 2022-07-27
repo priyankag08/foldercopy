@@ -1,0 +1,9 @@
+{
+	"name": "ADFOnkar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd83c209-586b-47e7-86cf-7cfd5b44fe6c",
+		"tenantId": "57084445-e440-441f-bc3f-fabe8cbb2535"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "SqlServerTableDestination",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServerDestinationLS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

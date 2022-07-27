@@ -1,0 +1,16 @@
+{
+	"name": "SqlServerDestinationLS",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=AZ-VDI-D1-267;initial catalog=eBS4_INT_QA2;user id=sa",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkZGY4YjczNy0xZDhlLTRiODEtYjY1MS0zMzQxZTEyMmYzOGEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime1",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
