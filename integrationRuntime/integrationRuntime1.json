@@ -4,7 +4,7 @@
 		"type": "SelfHosted",
 		"typeProperties": {
 			"linkedInfo": {
-				"resourceId": "/subscriptions/9ebde10a-058f-4892-8970-ba5813eb74e5/resourcegroups/demoresource/providers/Microsoft.DataFactory/factories/datafactorymainpro/integrationruntimes/integrationRuntimemain",
+				"resourceId": "/subscriptions/22a805df-4191-445f-befe-b715f2eba430/resourcegroups/Priya/providers/Microsoft.DataFactory/factories/ADFDemobyPriya/integrationruntimes/SelfHostedIR",
 				"authorizationType": "Rbac"
 			}
 		}
