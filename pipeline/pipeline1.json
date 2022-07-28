@@ -15,7 +15,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"storedProcedureName": "[dbo].[FolderCopyProc]",
+					"storedProcedureName": "[dbo].[FolderCopyADF]",
 					"storedProcedureParameters": {
 						"FolderID": {
 							"value": "33479",
@@ -23,6 +23,10 @@
 						},
 						"IsMasterList": {
 							"value": "1",
+							"type": "Int32"
+						},
+						"SQLOutput": {
+							"value": null,
 							"type": "Int32"
 						}
 					}
